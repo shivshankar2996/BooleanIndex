@@ -1,7 +1,7 @@
 /**
-* Template Name: Ninestars
+* Template Name: Boolean Index
 * Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/
+* Template URL: https://bootstrapmade.com/Boolean Index-free-bootstrap-3-theme-for-creative/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
